@@ -20,6 +20,7 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![Sfourm's github stats](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)
