@@ -1,10 +1,7 @@
 
 # Samuel Sergio 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sfourm&badges=2&show-avatar=true&branding=false&style=--header-bg-color:%23444)
 
-![sfourm](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true)
-
-![sfourm](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&count_private=true&layout=compact&langs_count=8&hide=html,css)
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sfourm&badges=2&show-avatar=false&branding=false&style=--header-bg-color:%23444)
 
 ## About
 
@@ -27,6 +24,7 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 - [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 - [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 
+
 [![Sfourm's github stats](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,7 +42,7 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 
 ## Socials
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-100%25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sfourm_)
 
