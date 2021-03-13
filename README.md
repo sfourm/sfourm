@@ -41,7 +41,7 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 ![Sfourm's github stats](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)
 
-![](https://www.samuelsergio.com/curriculo)
+![](https://www.samuelsergio.com/curriculo_en)
 
 
 
