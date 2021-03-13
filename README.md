@@ -7,19 +7,6 @@ My name is Samuel Sergio and I'm a Fullstack Developer. Currently working at Tec
 
 See my achivements and other cool stuff on my website: [samuelsergio.com](https://samuelsergio.com/)
 
-## Language (communication)
-
-- English
-- Portuguese
-- Spanish
-
-## Emotional Intelligence skills
-
-- Interpersonal leadership.
-- Responsible.
-- Proactive.
-- Easy learning.
-
 ## Socials
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/) 
@@ -33,8 +20,9 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)
 ![Sfourm's github stats](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)
 
 ## My Resume
 ![](https://www.samuelsergio.com/curriculo_en)
