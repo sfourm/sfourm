@@ -21,10 +21,8 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 
 ## Socials
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn25-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sfourm_)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelnunessergio@gmail.com)
 
 ## Main interests / skills
@@ -40,7 +38,6 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 ## My Stats
 
 ![Sfourm's github stats](https://github-readme-stats.vercel.app/api?username=sfourm&count_private=true&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfourm&exclude_repo=USP)
 
 
