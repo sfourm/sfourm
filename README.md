@@ -12,7 +12,7 @@ See my achivements and other cool stuff on my website: [samuelsergio.com](https:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sfourm/)](https://www.linkedin.com/in/sfourm/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sfourm_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelnunessergio@gmail.com)
-[![Website](https://img.shields.io/badge/Website-D1C936?style=for-the-badge)](samuelnunessergio@gmail.com)
+[![Website](https://img.shields.io/badge/Website-D1C936?style=for-the-badge)](https://samuelsergio.com/)
 ## Main interests / skills
 
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
