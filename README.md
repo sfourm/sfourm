@@ -1,8 +1,5 @@
 
 # Samuel Sergio 
-
-
-
 ## About
 
 My name is Samuel Sergio and I'm a Fullstack Developer. Currently working at Tecnologia Única (remotely) and WebPassos, located in Passos, MG (Brazil).
