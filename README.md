@@ -1,6 +1,6 @@
 ![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sfourm&badges=2&show-avatar=false&branding=false&style=--header-bg-color:%23444)
 
-# Samuel Sergio 
+## About 
 
 My name is Samuel Sergio and I'm a Fullstack Developer. Currently working at Tecnologia Única (remotely) and WebPassos, located in Passos, MG (Brazil).
 
